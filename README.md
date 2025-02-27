@@ -1,6 +1,6 @@
 # 📱 Simulador de iPhone - Desafio DIO
 
-Este projeto faz parte da trilha **Java Básico** do **Bootcamp da [DIO](https://www.dio.me)** e tem como objetivo praticar conceitos de **Programação Orientada a Objetos (POO)**, **modelagem UML** e a implementação de **interfaces** no Java.
+Este projeto faz parte da trilha **Java Básico** do **Bootcamp Bradesco - Java Cloud Native** da **[DIO](https://www.dio.me)** e tem como objetivo praticar conceitos de **Programação Orientada a Objetos (POO)**, **modelagem UML** e a implementação de **interfaces** no Java.
 
 ## 📌 Descrição do Projeto
 
